@@ -19,6 +19,7 @@
 I (Katikapalli Subramanyam Kalyan - shortly Kalyan KS) am a passionate NLP Researcher with over 7 years of research experience and 1000+ citations ([Google Scholar](https://scholar.google.com/citations?user=-j99UlcAAAAJ&hl=en))
 - Research Interests: *Large Language Models* and relevant topics like *LLM Evaluation*, *RAG Evaluation*, *Synthetic Data Generation* etc.
 - Served in the program committees of prestigious conferences like ACL and symposiums like ML4H.
-- Received citations from papers published by researchers from top institutes like Stanford, Harvard, MIT, CMU, University of Oxford, University of Texas, NTU Singapore, IITM etc. and top companies like Google, DeepMind, Twitter, Microsoft, IBM etc.
+- Received citations from papers published by researchers from top institutes like Stanford, Harvard, MIT, CMU, University of Oxford, University of Texas, NTU Singapore, IITM etc.
+- Received citations from papers published by researchers from top companies like Google, DeepMind, Twitter, Microsoft, IBM etc.
 
 
