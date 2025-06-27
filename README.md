@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Kalyan KS!
-- NLP Researcher with focus on LLMs, RAG and Agents. 
-- Looking for **full-time roles (remote - LLM Research Engineer) from July 2025 onwards**.
-
+- NLP Consultant & Researcher with focus on LLMs, RAG and Agents.
 <p align="center">
   <a href="https://www.linkedin.com/in/kalyanksnlp/">
     <img src="https://custom-icon-badges.demolab.com/badge/Kalyan%20KS-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
