@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Kalyan KS!
 - NLP Consultant & Researcher with focus on LLMs, RAG and Agents.
+- To get weekly updates related to Generative AI, LLMs, Agents and RAG, subscribe to my free newsletter [AIxFunda](https://aixfunda.substack.com/). 
 <p align="center">
   <a href="https://www.linkedin.com/in/kalyanksnlp/">
     <img src="https://custom-icon-badges.demolab.com/badge/Kalyan%20KS-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
