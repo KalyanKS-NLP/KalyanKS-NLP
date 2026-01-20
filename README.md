@@ -15,8 +15,16 @@
   <img src="https://komarev.com/ghpvc/?username=KalyanKS-NLP&style=flat-square&color=007ec6" alt="Profile Views">	
 </p>
 
+
+## 🚀 LLM Interview Questions and Answers Book 
+Crack modern LLM and Generative AI interviews with this comprehensive, interview-focused guide designed specifically for ML Engineers, AI Engineers, Data Scientists and Software Engineers.
+
+This book features **100+ carefully curated LLM interview questions**, each paired with **clear answers and in-depth explanations** so you truly understand the concepts interviewers care about. [Get the book here](https://kalyanksnlp.gumroad.com/l/llm-interview-questions-answers-book-kalyan-ks). 
+
+![LLM Interview Questions and Answers Book by Kalyan KS](https://github.com/KalyanKS-NLP/llm-engineer-toolkit/blob/main/Images/LLM_Interview_QA_Book_Image_Compress.png)
+
 # 🚀 About Me
-I (Katikapalli Subramanyam Kalyan - shortly Kalyan KS) am a passionate NLP Researcher with over 7 years of research experience and 1000+ citations ([Google Scholar](https://scholar.google.com/citations?user=-j99UlcAAAAJ&hl=en))
+I (Katikapalli Subramanyam Kalyan - shortly Kalyan KS) am a passionate NLP Consultant and Researcher with over 7 years of research experience and 1500+ citations ([Google Scholar](https://scholar.google.com/citations?user=-j99UlcAAAAJ&hl=en))
 - Research Interests: *Large Language Models* and relevant topics like *LLM Evaluation*, *RAG Evaluation*, *Synthetic Data Generation* etc.
 - Served in the program committees of prestigious conferences like ACL and symposiums like ML4H.
 - Received citations from papers published by researchers from top institutes like Stanford, Harvard, MIT, CMU, University of Oxford, University of Texas, NTU Singapore, IITM etc.
